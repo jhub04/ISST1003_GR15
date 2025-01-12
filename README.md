@@ -87,7 +87,6 @@ Følgende filer og mapper er inkludert i prosjektet:
 - Definer en problemstilling, for eksempel:
   - "Er LEGO for gutter dyrere enn LEGO for jenter?"
 - Analyser datasettet ved hjelp av multippel lineær regresjon.
-- Resultatene leveres som en rapport (maks 5 sider).
 
 ### Oppgave 2: Klassifikasjon
 - Implementer klassifikasjonsmodeller for datasettet.
@@ -103,6 +102,3 @@ Følgende filer og mapper er inkludert i prosjektet:
 - Peterson, A. D., & Ziegler, L. (2021). *Building a Multiple Linear Regression Model With LEGO Brick Data*. Journal of Statistics and Data Science Education, 29(3), 297–303.
 - NTNU ISTx1003 Prosjektbeskrivelse (2024).
 
----
-
-Denne README gir en oversikt over prosjektet og hvordan filene skal brukes. For spørsmål, ta kontakt via kursplattformen eller veiledere.
